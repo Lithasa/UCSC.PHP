@@ -13,7 +13,7 @@
 
 
 
-//echo "<h1>Hi everyone,I am lithasa </h1>";
+echo "<h1>Hi everyone,I am lithasa </h1>";
 
 //echo "<script>alert('hi')</script>";
 
